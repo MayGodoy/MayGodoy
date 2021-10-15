@@ -21,8 +21,8 @@ Soft skills 👩:
 - Good working under pressure
 - Critical design
 - Proactive and Hard-Worker
-- Organized
-- Good managing my deadlines
+- Organized 
+- Good managing my deadlines (Bullet Jornal method)
 - Self-taught Person
 - Adaptability
 - Strong analytical skills

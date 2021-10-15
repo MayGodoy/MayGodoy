@@ -16,24 +16,15 @@ Core Skills ⌨ :
 - Agile, SCRUM
 
 Soft skills 👩:
-- Teamwork
+- Teamwork and Cooperation
 - Communication skills
 - Good working under pressure
-- Critical design
 - Proactive and Hard-Worker
-- Organized 
-- Good managing my deadlines (Bullet Jornal method)
-- Self-taught Person
-- Adaptability
-- Strong analytical skills
-- Prioritizing
-- Self-starter
 - Planning
-- Cooperation
+- Good managing my deadlines (Bullet Jornal method)
+- Strong analytical skills
 - Delegation
-- Listening
-- Initiative
-- Persistence
+- Initiative and Persistence
 
 ⚡ Hobbies: 
 - Photography

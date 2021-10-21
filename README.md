@@ -7,7 +7,8 @@ I’m currently working on projects as Junior ML Engineer 💻. I would like to 
 Core Skills ⌨ :
 - Python
 - Python libraries like Pandas, Numpy, Plotly, Seaborn, Matplotlib, Scipy
-- Machine Learning models like Linear Regression, Logistic Regression, SVM, Decision Tree, Random Forest, kNN, K-Means.
+- Machine Learning Classifiers: Decision Tree, Random Forest, kNN, Naives Baiyes
+- Machine Learning Regression:Linear Regression, Logistic Regression, SVM, 
 - Unsupervised learning: Clustering & clustering optimization
 - NLP, Topic Modelling
 - Web Scrapping

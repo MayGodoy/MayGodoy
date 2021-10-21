@@ -8,7 +8,8 @@ Core Skills ⌨ :
 - Python
 - Python libraries like Pandas, Numpy, Plotly, Seaborn, Matplotlib, Scipy
 - Machine Learning Classifiers: Decision Tree, Random Forest, kNN, Naives Baiyes
-- Machine Learning Regression:Linear Regression, Logistic Regression, SVM, 
+- Machine Learning Regression: Linear Regression, Logistic Regression, SVM
+- Forecasting models 
 - Unsupervised learning: Clustering & clustering optimization
 - NLP, Topic Modelling
 - Web Scrapping
